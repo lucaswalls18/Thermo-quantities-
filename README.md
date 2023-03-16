@@ -6,7 +6,7 @@ This project allows you to explore thermodynamic quantities such as chemical pot
 
 You can run the notebook on Google Colaboratory by clicking on the Open in Colab badge at the end of this paragraph. You will need to sign in with your Google account. Execute the whole notebook by clicking on Run all from the Runtime menu (you will click on Run anyway if an authorship warning appears). You can then change inputs or code in the notebook, as desired. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucaswalls18/Thermo-quantities-/blob/main/Thermo_Quantities.ipynb)
 
-It is also possible to run the notebook on Binder. To do so, click on the launch binder badge at the end of this paragraph. It will take a few minutes to build the appropriate environment, but once done, you can click on the mainline.ipynb notebook to launch it. 
+It is also possible to run the notebook on Binder. To do so, click on the launch binder badge at the end of this paragraph. It will take a few minutes to build the appropriate environment, but once done, you can click on the mainline.ipynb notebook to launch it. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lucaswalls18/Thermo-quantities-/HEAD)
 
 Alternatively, you can run on your local computer. To do so, once you have installed the Jupyter Notebook, download the linked notebook above (right-click or control-click). To run the notebook from the command line, type, for example,
 
